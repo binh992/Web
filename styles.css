@@ -798,4 +798,7 @@ footer {
         padding: 15px;
         padding-bottom: 30px;
     }
+     .icon {
+        padding: 25px 15px;
+    }
 }
